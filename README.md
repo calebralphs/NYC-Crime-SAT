@@ -14,4 +14,5 @@ linked to their respective futures.
 ### Contributions
 
 Python jupyter notebook development - Caleb Ralphs
+
 Powerpoint and Write-up - Caleb Ralphs, David Larson, Vital Tavarez
